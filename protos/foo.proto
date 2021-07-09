@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "bar.proto";
+
+message Foo {
+  bytes foo = 1;
+  Bar bar = 2;
+}
