@@ -5,5 +5,5 @@ https://github.com/protocolbuffers/protobuf/issues/1491, an issue that makes it
 exceedingly difficult to deal with transitive imports in the Python bindings for
 both Protobuf and gRPC.
 
-`src/main.py` includes comments explaining the basic problem as well as the
+[`src/main.py`](src/main.py) includes comments explaining the basic problem as well as the
 various workarounds that have developed in the community as a response.
